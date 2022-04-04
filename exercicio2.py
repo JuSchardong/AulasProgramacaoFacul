@@ -1,15 +1,14 @@
 vA = input("Digite um numero: ")
 vB = input("Digite outro numero: ")
 
-print("Antes da troca vA = ",vA,"vB = ",vB)
+print("Antes da troca vA = ", vA, "vB = ", vB)
 
 vA, vB = vB, vA
-print("Depois da troca vA = ",vA,"vB = ",vB)
+print("Depois da troca vA = ", vA, "vB = ", vB)
 
-#transicao = vA
+# transicao = vA
 
-#vA = vB
-#vB = transicao
+# vA = vB
+# vB = transicao
 
-#print("Depois da troca vA = ",vA,"vB = ",vB)
-
+# print("Depois da troca vA = ",vA,"vB = ",vB)
